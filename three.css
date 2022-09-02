@@ -1,0 +1,75 @@
+body{
+    margin-top: 0px;
+    text-align: center;
+    background-color: #E3FDFD;
+    position: relative;
+    background-image: url(pexels-luis-dalvan-1770809.jpg);
+}
+.topbar{
+   
+    margin: 0px;
+    background-color: rgb(14, 45, 16);
+    height: 100px;
+    width: 1520px;
+    position:fixed;
+    
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+    text-align: center;
+    color: rgb(255, 255, 255);
+    opacity: 0.95;
+}
+
+
+.plant1{
+    margin: 100px auto 10px auto;
+    display: inline-block;
+    background-color: rgb(43, 93, 43);
+    padding: 30px;
+    
+    
+
+}
+.plant2{
+    margin: 10px auto 10px auto;
+    display: inline-block;
+    background-color: rgb(43, 94, 43);
+    padding: 30px;
+  
+
+
+
+
+
+}
+.plant3{
+    margin: 10px auto 10px auto;
+    display: inline-block;
+    background-color: rgb(43, 94, 43);
+    padding: 30px;
+    
+
+}
+.image{
+    border-radius: 10px;
+    
+    
+}
+.caption{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+    font-size: large;
+   
+    width: 400px;
+    line-height: 30px;
+    color: #E3FDFD;
+}
+hr{
+    background-color: white;
+    border: 0px;
+}
+a{
+    color:white;
+    font-weight: bolder;
+}
